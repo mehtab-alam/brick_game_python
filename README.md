@@ -13,6 +13,7 @@ pip install pygame
 
 ```python
 pygame.init()
+mixer.init()
 ```
 
 
