@@ -13,7 +13,13 @@ pip install pygame
 
 ```python
 pygame.init()
-mixer.init()
+```
+
+
+## How to run the Brick Game
+
+```shell
+python brick_game_invasion.py
 ```
 
 
