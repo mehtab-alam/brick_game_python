@@ -1,4 +1,4 @@
-## My Brick game in Python using PyGame
+# My Brick game in Python using PyGame
 
 
-# Pre-requisite Libraries
+## Pre-requisite Libraries
