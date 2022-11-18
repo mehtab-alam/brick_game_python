@@ -1,1 +1,1 @@
-# brick_game_python
+## My Brick game in Python using PyGame
