@@ -9,4 +9,11 @@
 pip install pygame
 ```
 
+- How to *initialize* PyGame Engine
+
+```python
+pygame.init()
+```
+
+
 
